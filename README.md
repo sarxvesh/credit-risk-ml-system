@@ -6,12 +6,14 @@ using Logistic Regression and Random Forest.
 - Data Cleaning Pipeline
 - Model Training
 - Risk Categorization Engine
-- Saved Model (.pkl)
 - Separate Prediction Script
 
 ## Tech Stack -
 Python, Scikit-learn, Pandas
 
-## How to Run -
+## How to Run
+
+```bash
 python main.py
 python predict.py
+```
